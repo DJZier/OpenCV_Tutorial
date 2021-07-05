@@ -14,7 +14,7 @@ int main(){
     cv::cvtColor(img, imgGray, cv::COLOR_BGR2GRAY);
 
     ////////// GaussianBlur(img,img) /////////
-    cv::GaussianBlur(img,imgBlur, cv::Size(7,7), 5, 0);
+    cv::GaussianBlur(imgGray,imgBlur, cv::Size(3,3), 3, 0);
 
     ////////// Canny /////////////////////////
     cv::Canny(imgBlur, imgCanny,50, 150);
