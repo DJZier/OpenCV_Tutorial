@@ -1,0 +1,3 @@
+/home/florian/opencv_ws/MurtazaTuto/WarpPerspective/CMakeFiles/rebuild_cache.dir
+/home/florian/opencv_ws/MurtazaTuto/WarpPerspective/CMakeFiles/edit_cache.dir
+/home/florian/opencv_ws/MurtazaTuto/WarpPerspective/CMakeFiles/Warp.dir
