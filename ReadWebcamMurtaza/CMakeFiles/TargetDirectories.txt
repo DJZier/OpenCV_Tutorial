@@ -1,0 +1,3 @@
+/home/florian/opencv_ws/ReadWebcamMurtaza/CMakeFiles/rebuild_cache.dir
+/home/florian/opencv_ws/ReadWebcamMurtaza/CMakeFiles/edit_cache.dir
+/home/florian/opencv_ws/ReadWebcamMurtaza/CMakeFiles/ReadWebcam.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(ReadWebcamMurtaza)
+find_package(OpenCV REQUIRED)
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable(ReadWebcam ReadWebcam.cpp)
+target_link_libraries( ReadWebcam ${OpenCV_LIBS} )

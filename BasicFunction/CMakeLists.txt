@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(BasicFunction)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(BasicFunction BasicFunction.cpp)
+target_link_libraries(BasicFunction ${OpenCV_LIBS})
